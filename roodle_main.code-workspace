@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ggg_web"
+		},
+		{
+			"path": "../ggg_backend"
+		},
+		{
+			"path": "../roodle"
+		}
+	]
+}
